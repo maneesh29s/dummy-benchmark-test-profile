@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v10.8.4-->
+<PhoronixTestSuite>
+  <Downloads>
+    <Package>
+      <URL>https://github.com/maneesh29s/dummy-benchmark/archive/refs/tags/v1.0.0.tar.gz</URL>
+      <SHA256>0df7772df7ec3e675ae0304f85620f5735c6b11c07cd048d65d0c4a38f9755d6</SHA256>
+      <FileName>dummy-benchmark-archive.tar.gz</FileName>
+      <PlatformSpecific>MacOSX</PlatformSpecific>
+      <Optional>TRUE</Optional>
+    </Package>
+  </Downloads>
+</PhoronixTestSuite>
